@@ -1,0 +1,3 @@
+def name(first,last):
+  display(first+last)
+  print (first+last)
